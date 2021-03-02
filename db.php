@@ -1,3 +1,4 @@
+aaaaaatest
 <?php
 $pdo = new PDO("mydb.db");
 
