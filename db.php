@@ -1,5 +1,5 @@
 <?php
-$pdo = new PDO("sqlite:mydb.db");
+$pdo = new PDO("mydb.db");
 
 $st = $pdo->query("SELECT * FROM test;');
 
